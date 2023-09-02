@@ -1,0 +1,11 @@
+---
+
+compression_level: 5
+
+directories_to_calculate:
+  - U:\
+  - V:\
+  - W:\
+  - X:\
+  - Y:\
+  - Z:\
